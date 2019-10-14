@@ -1,0 +1,8 @@
+﻿  ACO.cpp
+C:\Users\Julia\source\repos\formiga\formiga\Randoms.cpp(71,18): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Julia\source\repos\formiga\formiga\Randoms.cpp(72,1): warning C4305: 'return': truncamento de 'double' para 'float'
+C:\Users\Julia\source\repos\formiga\formiga\Randoms.cpp(89,27): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Julia\source\repos\formiga\formiga\Randoms.cpp(90,27): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Julia\source\repos\formiga\formiga\Randoms.cpp(94,14): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Julia\source\repos\formiga\formiga\ACO.cpp(393,11): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+  formiga.vcxproj -> C:\Users\Julia\source\repos\formiga\Debug\formiga.exe
